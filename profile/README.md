@@ -164,12 +164,6 @@ This course offers an in-depth introduction to Artificial Intelligence (AI) and 
 - **Credits**: 3  
 - **Contact Hours**: Lecture: 2 | Lab: 2  
 
-### **Assessment Plan**  
-- **Quizzes and Assignments**: 20%  
-- **Practical Lab Work**: 30%  
-- **Midterm Exam**: 20%  
-- **Final Exam**: 30%  
-
 ---
 
 ### **Tools and Resources**  
