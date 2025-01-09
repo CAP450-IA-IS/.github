@@ -10,7 +10,6 @@ This course offers an in-depth introduction to Artificial Intelligence (AI) and 
 
 ### **Course Objectives and Outcomes**  
 
-**Course Outcomes (COs):**  
 - **CO1**: Recall key principles of AI, ML, and Python programming, identifying their real-world applications through practical use cases.  
 - **CO2**: Understand data preprocessing, natural language processing (NLP), and neural networks, recognizing the challenges and opportunities they present.  
 - **CO3**: Apply techniques to design, optimize, and deploy neural networks, CNNs, and recommendation systems for practical AI solutions.  
